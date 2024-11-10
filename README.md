@@ -1,4 +1,4 @@
-# Project was developed by: Oleksii Khudenko[https://github.com/loisteg]
+# Project was developed by Oleksii Khudenko[https://github.com/loisteg]
 
 This project is a React application that utilizes Create React App as its foundation. It is designed to display different information from NASA APIs and includes various features for user interaction.
 
